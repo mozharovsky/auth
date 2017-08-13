@@ -8,6 +8,6 @@ let package = Package(
     ],
     dependencies: [
         // Swift models, relationships, and querying for NoSQL and SQL databases.
-        .Package(url: "https://github.com/vapor/fluent.git", majorVersion: 2)
+        .Package(url: "https://github.com/mozharovsky/fluent.git", majorVersion: 2)
     ]
 )
